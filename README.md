@@ -28,7 +28,7 @@ Semua komponen elektrik yang digunakan terhubung ke Arduino yang juga telah ters
 [Referensi 7](https://www.youtube.com/watch?v=5RMwtuV7BM0)
 
 ## Gambar Wiring Project 
-![Wiring Project.png](https://drive.google.com/file/d/1DXnx9lmF0KDatSwQTiBuK7L4xGldpnaf/view?usp=sharing)
+![Wiring Project.png](https://drive.google.com/file/d/1DXnx9lmF0KDatSwQTiBuK7L4xGldpnaf/view)
 
 ## Link YouTube
 [Link YouTube Project](https://youtu.be/KfWqBQvJ6k0)
