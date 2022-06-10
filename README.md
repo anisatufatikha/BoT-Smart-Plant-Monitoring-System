@@ -19,13 +19,13 @@ Semua komponen elektrik yang digunakan terhubung ke Arduino yang juga telah ters
 ## Analisis dan Diskusi Project
 
 ## Referensi
-*[Referensi 1](https://www.youtube.com/watch?v=qWPrU-ujidc&t=4s)
-*[Referensi 2](https://www.youtube.com/watch?v=aQcJ4uHdQEA&t=511s)
-*[Refrensi 3](https://www.youtube.com/watch?v=L7H5PiJLeBc)
-*[Referensi 4](https://www.youtube.com/watch?v=pFQaFnqpOtQ&t=254s)
-*[REferensi 5](https://www.youtube.com/watch?v=Al4QPNpvtQE&t=511s)
-*[Referensi 6](https://www.youtube.com/watch?v=7pfWkk1uxP8&t=504s)
-*[Referensi 7](https://www.youtube.com/watch?v=5RMwtuV7BM0)
+* [Referensi 1](https://www.youtube.com/watch?v=qWPrU-ujidc&t=4s)
+* [Referensi 2](https://www.youtube.com/watch?v=aQcJ4uHdQEA&t=511s)
+* [Refrensi 3](https://www.youtube.com/watch?v=L7H5PiJLeBc)
+* [Referensi 4](https://www.youtube.com/watch?v=pFQaFnqpOtQ&t=254s)
+* [REferensi 5](https://www.youtube.com/watch?v=Al4QPNpvtQE&t=511s)
+* [Referensi 6](https://www.youtube.com/watch?v=7pfWkk1uxP8&t=504s)
+* [Referensi 7](https://www.youtube.com/watch?v=5RMwtuV7BM0)
 
 ## Gambar Wiring Project 
 ![Wiring Project](https://user-images.githubusercontent.com/89328195/173163088-8039f0fd-edbb-45e8-b1af-906e38bbb1dc.png)
