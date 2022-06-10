@@ -21,7 +21,7 @@ Semua komponen elektrik yang digunakan terhubung ke Arduino yang juga telah ters
 ## Referensi
 * [Referensi 1](https://www.youtube.com/watch?v=qWPrU-ujidc&t=4s)
 * [Referensi 2](https://www.youtube.com/watch?v=aQcJ4uHdQEA&t=511s)
-* [Refrensi 3](https://www.youtube.com/watch?v=L7H5PiJLeBc)
+* [Referensi 3](https://www.youtube.com/watch?v=L7H5PiJLeBc)
 * [Referensi 4](https://www.youtube.com/watch?v=pFQaFnqpOtQ&t=254s)
 * [REferensi 5](https://www.youtube.com/watch?v=Al4QPNpvtQE&t=511s)
 * [Referensi 6](https://www.youtube.com/watch?v=7pfWkk1uxP8&t=504s)
