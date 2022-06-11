@@ -17,7 +17,8 @@ Alat-alat yang diperlukan :
 Semua komponen elektrik yang digunakan terhubung ke Arduino yang juga telah tersambung ke aplikasi mobile sebagai alat untuk memantau tanaman secara langsung.
 
 ## Analisis dan Diskusi Project
-
+Dari project BoT-Smart-Plant-Monitoring-System yang telah dibuat, kami menyimpulkan bahwa integrasi antar perangkat sangat bermanfaat sehingga dapat menghasilkan alat yang dapat mempermudah kegiatan (terutama yang berulang) dengan penerapan otomatisasi pula sistem akan lebih efisien.
+Dalam kasus lain, pengguaan mikrokontroler beserta sensor (jenis sensor lain)dapat dikembangkan terutama dalam kegiatan produksi sehingga prosesnya akan lebih singkat, meminimalisir kesalahan, memperkecil biaya produksi sehingga keuntungan dalam bisnispun dapat diraih.
 ## Referensi
 * [Referensi 1](https://www.youtube.com/watch?v=qWPrU-ujidc&t=4s)
 * [Referensi 2](https://www.youtube.com/watch?v=aQcJ4uHdQEA&t=511s)
