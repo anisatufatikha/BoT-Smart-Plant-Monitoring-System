@@ -18,6 +18,7 @@ Semua komponen elektrik yang digunakan terhubung ke Arduino yang juga telah ters
 
 ## Analisis dan Diskusi Project
 Dari project BoT-Smart-Plant-Monitoring-System yang telah dibuat, kami menyimpulkan bahwa integrasi antar perangkat sangat bermanfaat sehingga dapat menghasilkan alat yang dapat mempermudah kegiatan (terutama yang berulang) dengan penerapan otomatisasi pula sistem akan lebih efisien.
+Project ini merepresentasikan pengembangan komponen untuk jaringan sensor yang dapat dengan mudah digabungkan untuk membuat jaringan yang reaktif dan berumur panjang untuk berbagai aplikasi pemantauan lingkungan termasuk irigasi di bidang pertanian atau perkotaan, pemantauan daerah resapan air, dan lahan kering serta manajemen salinitas.
 Dalam kasus lain, pengguaan mikrokontroler beserta sensor (jenis sensor lain)dapat dikembangkan terutama dalam kegiatan produksi sehingga prosesnya akan lebih singkat, meminimalisir kesalahan, memperkecil biaya produksi sehingga keuntungan dalam bisnispun dapat diraih.
 ## Referensi
 * [Referensi 1](https://www.youtube.com/watch?v=qWPrU-ujidc&t=4s)
